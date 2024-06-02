@@ -1,4 +1,5 @@
 # Disease Prediction and Precaution System using Machine Learning
+![Image](https://github.com/Rathul2002/Disease-Prediction/blob/993b881e85e7191709b2899fcdc93add6f606bf8/image.png?raw=true)
 
 
 # Project Overview:
