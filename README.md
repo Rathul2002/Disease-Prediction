@@ -1,4 +1,5 @@
 # Disease Prediction and Precaution System using Machine Learning
+![Image](https://github.com/Rathul2002/Disease-Prediction/blob/98a9cd06cbce69f3a112f7611afbae3ca72115d3/image.png)
 
 # Project Overview:
 The Disease Prediction and Precaution System is a Python-based machine learning project designed to predict the disease a person might be suffering from based on their symptoms and provide relevant precautions to manage the identified condition. This system leverages machine learning algorithms to analyze symptom patterns and make accurate predictions, helping individuals take proactive steps towards their health.
