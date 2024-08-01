@@ -37,4 +37,4 @@ def predict():
     return render_template('index.html', prediction_text=f"Disease: {d}", description_text=f"Description: {desc}", precaution_text=f"Precaution: {prec}", severity_text=f"Severity: {sev}")
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run()
