@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background: #F8F9FD;
+    background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(244, 247, 251) 100%);
+    border-radius: 40px;
+    padding: 25px 35px;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: rgba(133, 189, 215, 0.8784313725) 0px 30px 30px -20px;
+    
+}
+
+h1 {
+    color: #343a40;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+#prediction,
+#description,
+#precaution,
+#severity {
+    animation: fadeIn 1s ease-in;
+}
+
+/* From Uiverse.io by javierBarroso */ 
+button {
+    color: #090909;
+    padding: 0.7em 1.7em;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #e8e8e8;
+    cursor: pointer;
+    border: 1px solid #e8e8e8;
+    transition: all 0.3s;
+    box-shadow:
+      6px 6px 12px #c5c5c5,
+      -6px -6px 12px #ffffff;
+  }
+  
+  button:active {
+    color: #666;
+    box-shadow:
+      0px 0px 0px #c5c5c5,
+      0px 0px 0px #ffffff,
+      inset 4px 4px 12px #c5c5c5,
+      inset -4px -4px 12px #ffffff;
+  }
+  
